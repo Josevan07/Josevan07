@@ -40,10 +40,10 @@
 
 <div>
 <a>
-  <a href="tps://www.instagram.com/design_joliv?igsh=d2VuNjZqczg0bnN1&utm_source=qr 
-  <a href="https://instagram.com/rafaballerini" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+<a href="https://www.instagram.com/design_joliv/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
 
  
 
